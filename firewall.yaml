@@ -4,4 +4,4 @@ debug:  0
 verbose:  0
 alarm_ipt_exec: 6
 exec_style: 'waitpid'
-timeout_ipt_exec: 1
+timeout_ipt_exec: 0
